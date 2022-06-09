@@ -1,0 +1,6 @@
+{
+	"FeatureFlag1": {
+		"type": "bool",
+		"value": true
+	}
+}
