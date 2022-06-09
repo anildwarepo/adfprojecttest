@@ -1,0 +1,17 @@
+{
+	"name": "anildwaadfdev",
+	"properties": {
+		"globalParameters": {
+			"FeatureFlag1": {
+				"type": "bool",
+				"value": true
+			}
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ed8be8a-580f-4dd2-b5ac-6fb697f6eae3",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
